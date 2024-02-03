@@ -14,6 +14,7 @@ Este repositório tem como objetivo fornecer recursos e informações para apren
 ### Recursos:
 - [Definindo e Configurando Estilos](./Word/Recursos/estilos.md)
 - [Definindo Quebra de Página e Quebra de Seção](./Word/Recursos/quebras.md)
+- [Definindo Margens](./Word/Recursos/margens.md)
 
 ### Exercícios:
 - [Exercício 01](./Word/Exercícios%20Word/exercicio-word-01.md)
