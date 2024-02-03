@@ -1,4 +1,4 @@
-# EXERCÍCIO WORD - 01
+# EXERCÍCIO WORD - 02
 
 Para exemplificar copie o conteúdo abaixo no Word:
 
