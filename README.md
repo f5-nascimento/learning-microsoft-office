@@ -4,12 +4,16 @@ Este repositório tem como objetivo fornecer recursos e informações para apren
 
 ## Conteúdo
 
-- [Word](./Word): Recursos relacionados ao Microsoft Word.
+### [Word](./Word): Recursos relacionados ao Microsoft Word.
+- [Introdução ao MS Office Word](./Word/introducao-msoffice-word.md)
+- [Página Inicial](./Word/pagina-inicial.md)
+- [Inserir](./Word/inserir.md)
+- [Layout](./Word/layout.md)
+- [Referências](./Word/referencias.md)
 
-
-- [Excel](./Excel): Recursos relacionados ao Microsoft Excel.
+### [Excel](./Excel): Recursos relacionados ao Microsoft Excel.
   
-- [PowerPoint](./PowerPoint): Recursos relacionados ao Microsoft PowerPoint.
+### [PowerPoint](./PowerPoint): Recursos relacionados ao Microsoft PowerPoint.
   
 
 ## Como Contribuir
