@@ -11,6 +11,10 @@ Este repositório tem como objetivo fornecer recursos e informações para apren
 - [Layout](./Word/layout.md)
 - [Referências](./Word/referencias.md)
 
+### Recursos:
+- [Definindo e Configurando Estilos](./Word/Recursos/estilos.md)
+- [Definindo Quebra de Página e Quebra de Seção](./Word/Recursos/quebras.md)
+
 ### Exercícios:
 - [Exercício 01](./Word/Exercícios%20Word/exercicio-word-01.md)
 - [Exercício 02](./Word/Exercícios%20Word/exercicio-word-02.md)
