@@ -2,18 +2,24 @@
 
 Este repositório tem como objetivo fornecer recursos e informações para aprender o Microsoft Office, incluindo o Word, Excel e PowerPoint.
 
-## Conteúdo
+## [Word](./Word): Recursos relacionados ao Microsoft Word.
 
-### [Word](./Word): Recursos relacionados ao Microsoft Word.
+### Conteúdo:
 - [Introdução ao MS Office Word](./Word/introducao-msoffice-word.md)
 - [Página Inicial](./Word/pagina-inicial.md)
 - [Inserir](./Word/inserir.md)
 - [Layout](./Word/layout.md)
 - [Referências](./Word/referencias.md)
 
-### [Excel](./Excel): Recursos relacionados ao Microsoft Excel.
+### Exercícios:
+- [Exercício 01](./Word/Exercícios%20Word/exercicio-word-01.md)
+- [Exercício 02](./Word/Exercícios%20Word/exercicio-word-02.md)
+- [Exercício 03](./Word/Exercícios%20Word/exercicio-word-03.md)
+- [Exercício 04](./Word/Exercícios%20Word/exercicio-word-04.md)
+
+## [Excel](./Excel): Recursos relacionados ao Microsoft Excel.
   
-### [PowerPoint](./PowerPoint): Recursos relacionados ao Microsoft PowerPoint.
+## [PowerPoint](./PowerPoint): Recursos relacionados ao Microsoft PowerPoint.
   
 
 ## Como Contribuir
