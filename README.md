@@ -23,8 +23,14 @@ Este repositório tem como objetivo fornecer recursos e informações para apren
 - [Exercício 03](./Word/Exercícios%20Word/exercicio-word-03.md)
 - [Exercício 04](./Word/Exercícios%20Word/exercicio-word-04.md)
 
+
 ## [Excel](./Excel): Recursos relacionados ao Microsoft Excel.
-  
+
+### Conteúdo:
+- [Introdução ao MS Office Excel](./Excel/introducao-msoffice-excel.md)
+
+ 
+
 ## [PowerPoint](./PowerPoint): Recursos relacionados ao Microsoft PowerPoint.
   
 
